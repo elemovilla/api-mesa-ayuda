@@ -38,10 +38,10 @@ spring:
     password: 7ACllW1mp1W7PiEroES6
     driver-class-name: com.mysql.cj.jdbc.Driver
   mail:
-    host: smtp.office365.com
+    host: smtp.mailgun.org
     port: 587
-    username: backend@enyoi.co
-    password: EY.back2022*
+    username: postmaster@sandboxb57397515112400682666b953bb47219.mailgun.org
+    password: f22414fd961d8067212b1b629b0c54fa-ca9eeb88-b74dd743
     properties:
       mail:
         smtp:
