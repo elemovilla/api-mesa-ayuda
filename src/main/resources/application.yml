@@ -33,9 +33,9 @@ spring:
     #jdbc:mysql://enyoi.co:3306/enyoi_db
     #enyoi_db
     #3tT9ip9_8
-    url: jdbc:mysql://containers-us-west-121.railway.app:7417/railway
+    url: jdbc:mysql://containers-us-west-106.railway.app:7408/railway
     username: root
-    password: FRMaYGjAdtBbH67QucdB
+    password: 7ACllW1mp1W7PiEroES6
     driver-class-name: com.mysql.cj.jdbc.Driver
   mail:
     host: smtp.office365.com
